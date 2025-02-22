@@ -1,8 +1,4 @@
-- Fußball
-- Reisen
-- Angeln
-- Fliegen
-- Informatik
+- Ice Hockey spielen
 
 - Gardetanz
 - Postproduktion
