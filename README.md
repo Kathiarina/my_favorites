@@ -1,1 +1,5 @@
-# my_favorites
+- Fußball
+- Reisen
+- Angeln
+- Fliegen
+- Informatik
