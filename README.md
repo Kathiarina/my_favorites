@@ -3,3 +3,8 @@
 - Angeln
 - Fliegen
 - Informatik
+
+- Gardetanz
+- Postproduktion
+- Lesen
+  
